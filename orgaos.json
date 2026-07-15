@@ -1,0 +1,161 @@
+[
+
+    {
+
+"id":1,
+
+"tipo":"Prefeitura",
+
+"nome":"Abaiara",
+
+"cidade":"Abaiara - CE",
+
+"logo":"imagens/logos/prefeitura-abaiara.png",
+
+
+"sistemas":[
+
+{
+"nome":"Veiculos PM",
+"url":"https://veiculos.ssinformatica.net/Abaiara"
+}
+
+]
+
+},
+
+{
+
+"id":2,
+
+"tipo":"Prefeitura / Câmara",
+
+"nome":"Acarau",
+
+"cidade":"Acarau - CE",
+
+"logo":"imagens/logos/prefeitura-acarau.png",
+
+
+"sistemas":[
+
+{
+"nome":"Fluxus",
+"url":"https://acarau.ssinformatica.net/"
+},
+
+{
+"nome":"Veiculos Prefeitura",
+"url":"https://veiculos.ssinformatica.net/Acarau"
+},
+
+{
+"nome":"Veiculos Câmara",
+"url":"https://veiculos.ssinformatica.net/CMAcarau"
+}
+
+
+]
+
+},
+
+{
+
+"id":9,
+
+"tipo":"Prefeitura / Câmara",
+
+"nome":"Amontada",
+
+"cidade":"Amontada - CE",
+
+"logo":"imagens/logos/prefeitura-amontada.png",
+
+
+"sistemas":[
+
+{
+"nome":"Fluxus",
+"url":"https://amontada.ssinformatica.net/"
+},
+
+{
+"nome":"Veiculos Prefeitura",
+"url":"https://veiculos.ssinformatica.net/Amontada"
+},
+
+{
+"nome":"Veiculos Câmara",
+"url":"https://veiculos.ssinformatica.net/CMAmontada"
+}
+
+
+]
+
+},
+
+
+
+{
+
+"id":125,
+
+"tipo":"Prefeitura / Câmara",
+
+"nome":"Quixelô",
+
+"cidade":"Quixelô - CE",
+
+"logo":"imagens/logos/prefeitura-quixelo.png",
+
+
+"sistemas":[
+
+{
+"nome":"Veiculos Prefeitura",
+"url":"https://veiculos.ssinformatica.net/Quixelo"
+},
+
+{
+"nome":"Veiculos Câmara",
+"url":"https://veiculos.ssinformatica.net/CMQuixelo"
+}
+
+
+]
+
+},
+
+
+
+{
+
+"id":3,
+
+"tipo":"Prefeitura / Câmara",
+
+"nome":"Redenção",
+
+"cidade":"Redenção - CE",
+
+"logo":"imagens/logos/prefeitura-redencao.png",
+
+
+"sistemas":[
+
+{
+"nome":"Fluxus",
+"url":"https://redencaofluxus.ssinformatica.net/"
+},
+
+{
+"nome":"Veiculos Prefeitura",
+"url":"https://veiculos.ssinformatica.net/Redencao"
+}
+
+]
+
+
+}
+
+]
